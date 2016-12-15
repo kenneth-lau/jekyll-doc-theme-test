@@ -4,29 +4,34 @@ topnav:
 - title: Topnav
   items:
     - title: News
-      url: /news
+      url: /News
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Resources
+    - title: Doc Sites
       folderitems:
-        - title: Github Repo
-          external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: Stripe
+          external_url: https://stripe.com/docs
+        - title: Facebook
+          external_url: https://developers.facebook.com/docs/messenger-platform
+        - title: Google
+          external_url: https://developers.google.com/products/
+        - title: PayPal
+          external_url: https://developer.paypal.com/docs/api/
+        - title: MuleSoft
+          external_url: https://docs.mulesoft.com/
     - title: Products
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
         - title: Product 1
           url: /p1_landing_page.html
         - title: Product 2
           url: /p2_landing_page.html
+        - title: General info
+          url: /mydoc_introduction.html
+    - title: Console
+      folderitems:
+          - title: Developer Console
+            external_url: /p1_landing_page.html
+        
