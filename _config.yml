@@ -28,7 +28,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_email: developerquestions@helpmenow.com
+# feedback_email: developerquestions@helpmenow.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -37,7 +37,7 @@ feedback_email: developerquestions@helpmenow.com
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "http://helpy.io/"
+feedback_link: "https://github.com/kenneth-lau/jekyll-doc-theme-test/issues"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
@@ -65,7 +65,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: product1_sidebar
   -
     scope:
       path: ""
@@ -84,14 +84,14 @@ defaults:
       layout: "post"
       comments: true
       search: true
-      sidebar: home_sidebar
+      sidebar: product1_sidebar
 
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
+- product1_sidebar
 - home_sidebar
 - mydoc_sidebar
-- product1_sidebar
 - product2_sidebar
 - other
 
