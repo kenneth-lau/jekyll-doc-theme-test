@@ -31,12 +31,24 @@ entries:
       url: /p1_sample1.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /p1_sample2.html
+  - title: Getting Started
+    output: web, pdf
+
+    folderitems:
+    - title: Authorization
+      url: /p1_sample4.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /p1_sample3.html
+    - title: Access Tokens
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Security
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Best Practices
+      url: /p1_sample7.html
       output: web, pdf
 
   - title: Tutorials
@@ -57,4 +69,64 @@ entries:
 
     - title: Making Payments
       url: /p1_sample7.html
+      output: web, pdf
+
+  - title: SDKs
+    output: web, pdf
+
+    folderitems:
+    - title: iOS
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Android
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: JavaScript
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Server-Side
+      url: /p1_sample7.html
+      output: web, pdf
+
+  - title: API Reference
+    output: web, pdf
+
+    folderitems:
+    - title: Pet
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Store
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: User
+      url: /p1_sample6.html
+      output: web, pdf
+
+  - title: Migration Guide
+    output: web, pdf
+
+    folderitems:
+    - title: Migration Guide
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Glossary
+    output: web, pdf
+
+    folderitems:
+    - title: Glossary
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Changelog
+    output: web, pdf
+
+    folderitems:
+    - title: Changelog
+      url: /p1_sample4.html
       output: web, pdf
