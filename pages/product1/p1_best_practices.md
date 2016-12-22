@@ -1,9 +1,9 @@
 ---
-title: Sample 5 Topic (Product 1)
+title: Best Practices (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: p1_sample5.html
+permalink: p1_best_practices.html
 folder: product1
 ---
 

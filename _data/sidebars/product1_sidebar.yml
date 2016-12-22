@@ -28,7 +28,7 @@ entries:
       output: web
 
     - title: Use Cases
-      url: /p1_sample1.html
+      url: /p1_use_cases.html
       output: web, pdf
 
   - title: Getting Started
@@ -36,19 +36,19 @@ entries:
 
     folderitems:
     - title: Authorization
-      url: /p1_sample4.html
+      url: /p1_authorization.html
       output: web, pdf
 
     - title: Access Tokens
-      url: /p1_sample5.html
+      url: /p1_access_tokens.html
       output: web, pdf
 
     - title: Security
-      url: /p1_sample6.html
+      url: /p1_security.html
       output: web, pdf
 
     - title: Best Practices
-      url: /p1_sample7.html
+      url: /p1_best_practices.html
       output: web, pdf
 
   - title: Tutorials
@@ -56,19 +56,19 @@ entries:
 
     folderitems:
     - title: Sending a Message
-      url: /p1_sample4.html
+      url: /p1_sending_message.html
       output: web, pdf
 
     - title: Customizing User Experience
-      url: /p1_sample5.html
+      url: /p1_customizing.html
       output: web, pdf
 
     - title: Integrating AI
-      url: /p1_sample6.html
+      url: /p1_integrating_ai.html
       output: web, pdf
 
     - title: Making Payments
-      url: /p1_sample7.html
+      url: /p1_making_payments.html
       output: web, pdf
 
   - title: SDKs
@@ -76,19 +76,19 @@ entries:
 
     folderitems:
     - title: iOS
-      url: /p1_sample4.html
+      url: /p1_sdk_ios.html
       output: web, pdf
 
     - title: Android
-      url: /p1_sample5.html
+      url: /p1_sdk_android.html
       output: web, pdf
 
     - title: JavaScript
-      url: /p1_sample6.html
+      url: /p1_sdk_javascript.html
       output: web, pdf
 
     - title: Server-Side
-      url: /p1_sample7.html
+      url: /p1_sdk_server.html
       output: web, pdf
 
   - title: API Reference
@@ -96,15 +96,15 @@ entries:
 
     folderitems:
     - title: Pet
-      url: /p1_sample4.html
+      url: /p1_api_pet.html
       output: web, pdf
 
     - title: Store
-      url: /p1_sample5.html
+      url: /p1_api_store.html
       output: web, pdf
 
     - title: User
-      url: /p1_sample6.html
+      url: /p1_user.html
       output: web, pdf
 
   - title: Migration Guide
@@ -112,7 +112,7 @@ entries:
 
     folderitems:
     - title: Migration Guide
-      url: /p1_sample4.html
+      url: /p1_migration_guide.html
       output: web, pdf
 
   - title: Glossary
@@ -120,7 +120,7 @@ entries:
 
     folderitems:
     - title: Glossary
-      url: /p1_sample4.html
+      url: /p1_glossary.html
       output: web, pdf
 
   - title: Changelog
@@ -128,5 +128,5 @@ entries:
 
     folderitems:
     - title: Changelog
-      url: /p1_sample4.html
+      url: /p1_changelog.html
       output: web, pdf

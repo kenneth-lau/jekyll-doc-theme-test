@@ -1,9 +1,9 @@
 ---
-title: Sample 6 Topic (Product 1)
+title: Sending Messages (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: p1_sample6.html
+permalink: p1_sending_message.html
 folder: product1
 ---
 
